@@ -757,7 +757,7 @@ class App(object):
 def specific_cities2():
     """function to calculate the route for files in data folder with coordinates"""
     start_time = time.time()
-    f = open("data/pr2392-2.in", "r")
+    f = open("data/3x3.in", "r")
     f.readline()
     f.readline()
     f.readline()
